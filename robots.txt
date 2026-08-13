@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://promoe.com.sa/sitemap.xml
